@@ -2,7 +2,7 @@
 
 I'm a Machine Learning and Data Science enthusiast.
 
-- 🎓 CompSci undergrad at UFSC
+- 🎓 Computer Science undergrad at UFSC
 - 💻 Working with Machine Learning at ECL - Embedded Computing Lab
 - 📚 Avid reader, lover of humanity and humanism
 - 🔭 2022 Goals: develop Machine Learning projects and acquire more knowledge on algorithms
