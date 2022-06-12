@@ -6,4 +6,4 @@ I'm a Machine Learning and Data Science enthusiast.
 - 💻 Working with Machine Learning at ECL - Embedded Computing Lab
 - 📚 Avid reader, lover of humanity and humanism
 - 🔭 2022 goals: develop Machine Learning projects and acquire more knowledge on algorithms
-- 🌞 Ecce factum: "si programmamus silvas, silvae sint consule dignae" 
+- 🌞 Ecce factum: "si programmamus silvas, silvae sint consule dignae!" 
