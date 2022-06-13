@@ -11,4 +11,4 @@ I'm a Machine Learning and Data Science enthusiast.
 ![Arthur's Github Stats](https://github-readme-stats.vercel.app/api?username=scarpart)
 
 ## Connect with me:
-[aenartzr@gmail.com](aenartzr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arthur-s-707a69235/)
+[scarpattart@gmail.com](scarpattart@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arthur-s-707a69235/)
