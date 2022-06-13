@@ -6,7 +6,7 @@ I'm a Machine Learning and Data Science enthusiast.
 - 💻 Working with Machine Learning at ECL - Embedded Computing Lab
 - 📚 Avid reader, lover of humanity and humanism
 - 🔭 2022 Goals: develop Machine Learning projects and acquire more knowledge on algorithms
-- 🌞 "Si programmamus silvas, silvae sint consule dignae!" 
+- 🌞 "Si programmamus silvas, silvae sint consule dignae" 
 
 ![Arthur's Github Stats](https://github-readme-stats.vercel.app/api?username=scarpart)
 
