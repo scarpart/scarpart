@@ -8,7 +8,5 @@ I'm a Machine Learning and Data Science enthusiast.
 - 🔭 2022 Goals: develop Machine Learning projects and acquire more knowledge on algorithms
 - 🌞 "Si programmamus silvas, silvae sint consule dignae" 
 
-![Arthur's Github Stats](https://github-readme-stats.vercel.app/api?username=scarpart)
-
 ## Connect with me:
 [scarpattart@gmail.com](scarpattart@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arthur-s-707a69235/)
